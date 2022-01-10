@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = myriam.delbreil@live.fr
+	name = Myriam Delbreil
